@@ -1,10 +1,6 @@
 # Digital Image Processing Practicals
 
-15 Python practicals, with a menu launcher and macOS setup. Adapted from
-[Shivam Madhwal's DIP-Lab-Programs](https://github.com/Shivam220403/DIP-Lab-Programs)
-(source revision `9cfcb662ea6b7a1b02d50a822aa3315f5e16b716`). Original algorithms
-and worked examples are retained; local changes add input-image arguments,
-separate output filenames, a launcher, and installation instructions.
+
 
 ## Run on Mac
 
